@@ -6,6 +6,7 @@
     "test": "gauge run specs/"
   },
   "dependencies": {
+    "jshint": "^2.10.2",
     "taiko": "latest"
   }
 }

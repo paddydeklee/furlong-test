@@ -4,12 +4,6 @@ This is an executable specification file. This file follows markdown syntax. Eve
 To execute this specification, use
 	npm test
 
-## Search Taiko Repository
-
-* Goto getgauge github page
-* Search for "Taiko"
-* Page contains "getgauge/taiko"
-
 ## Search Google Repository
 
 * Goto "google.com"
