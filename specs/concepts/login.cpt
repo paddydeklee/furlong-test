@@ -1,4 +1,5 @@
 # Login as user <username> and password <password>
 
-* Login as <username> and <password>
+* Use <table:credentials.csv>
+* Login as "paddy" and "password"
 * Click login

@@ -1,17 +1,7 @@
 # Getting Started with Gauge
 
-This is an executable specification file. This file follows markdown syntax. Every heading in this file denotes a scenario. Every bulleted point denotes a step.
-To execute this specification, use
-	npm test
 
-## Search Taiko Repository
-
-* Goto getgauge github page
-* Search for "Taiko"
-* Page contains "getgauge/taiko"
-
-## Search Google Repository
-
-* Goto "google.com"
-* Write "cat"
-* Page contains "care"
+## Log in and go to study
+* Go to edc study "Furlong"
+* Add new record with ID "03030"
+* Enter record "02020"
