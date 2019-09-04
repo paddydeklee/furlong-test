@@ -1,0 +1,95 @@
+ExecutionInfo {
+    currentSpec: SpecInfo {
+        tags: [],
+        name: 'Registration process',
+        fileName: 'c:\\Users\\pedeklee\\Development\\furlong-test\\specs\\login.spec'
+    },
+    currentScenario: ScenarioInfo {
+        tags: [],
+        name: 'Log in, go to study, go to record complete registration'
+    },
+    currentStep: StepInfo {
+        step: ExecuteStepRequest {
+            parameters: [Array],
+            actualStepText: 'Go to edc study "Furlong"',
+            parsedStepText: 'Go to edc study {}'
+        }
+    }
+}
+ExecutionInfo {
+    currentSpec: SpecInfo {
+        tags: [],
+        name: 'Registration process',
+        fileName: 'c:\\Users\\pedeklee\\Development\\furlong-test\\specs\\login.spec'
+    },
+    currentScenario: ScenarioInfo {
+        tags: [],
+        name: 'Log in, go to study, go to record complete registration'
+    },
+    currentStep: StepInfo {
+        step: ExecuteStepRequest {
+            parameters: [Array],
+            actualStepText: 'Add new record with ID "55555"',
+            parsedStepText: 'Add new record with ID {}'
+        }
+    }
+}
+ExecutionInfo {
+    currentSpec: SpecInfo {
+        tags: [],
+        name: 'Registration process',
+        fileName: 'c:\\Users\\pedeklee\\Development\\furlong-test\\specs\\login.spec'
+    },
+    currentScenario: ScenarioInfo {
+        tags: [],
+        name: 'Log in, go to study, go to record complete registration'
+    },
+    currentStep: StepInfo {
+        step: ExecuteStepRequest {
+            parameters: [Array],
+            actualStepText: 'Enter record "55555"',
+            parsedStepText: 'Enter record {}'
+        }
+    }
+}
+ExecutionInfo {
+    currentSpec: SpecInfo {
+        tags: [],
+        name: 'Registration process',
+        fileName: 'c:\\Users\\pedeklee\\Development\\furlong-test\\specs\\login.spec'
+    },
+    currentScenario: ScenarioInfo {
+        tags: [],
+        name: 'Log in, go to study, go to record complete registration'
+    },
+    currentStep: StepInfo {
+        step: ExecuteStepRequest {
+            parameters: [Array],
+            actualStepText: 'Click "Registration"',
+            parsedStepText: 'Click {}'
+        }
+    }
+}
+ExecutionInfo {
+    currentSpec: SpecInfo {
+        tags: [],
+        name: 'Registration process',
+        fileName: 'c:\\Users\\pedeklee\\Development\\furlong-test\\specs\\login.spec',
+        isFailed: true
+    },
+    currentScenario: ScenarioInfo {
+        tags: [],
+        name: 'Log in, go to study, go to record complete registration',
+        isFailed: true
+    },
+    currentStep: StepInfo {
+        step: ExecuteStepRequest {
+            parameters: [],
+            actualStepText: 'Complete registration form',
+            parsedStepText: 'Complete registration form'
+        },
+        isFailed: true,
+        stackTrace: 'ReferenceError: checkBox is not defined',
+        errorMessage: '{}'
+    }
+}
