@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/paddydeklee/furlong-test/issues"
   },
-  "homepage": "https://github.com/paddydeklee/furlong-test#readme"
+  "homepage": "https://github.com/paddydeklee/furlong-test#readme",
+  "dependencies": {
+    "jshint": "^2.10.2",
+    "taiko": "^1.0.0"
+  }
 }
