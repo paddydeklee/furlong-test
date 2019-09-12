@@ -21,7 +21,14 @@
   },
   "homepage": "https://github.com/paddydeklee/furlong-test#readme",
   "dependencies": {
+    "@grpc/proto-loader": "^0.5.2",
     "jshint": "^2.10.2",
+    "nvm": "0.0.4",
     "taiko": "^1.0.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.2.0",
+    "@typescript-eslint/parser": "^2.2.0",
+    "eslint": "^6.3.0"
   }
 }
