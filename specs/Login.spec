@@ -6,4 +6,4 @@
 * Enter record "1"
 * Click "Registration"
 * Fill registration form
-* Click button "Next"
+* Click Next
