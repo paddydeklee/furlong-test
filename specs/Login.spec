@@ -2,8 +2,8 @@
 
 ## Log in, go to study, go to record complete registration
 * Go to edc study "Furlong"
-* Add new record with ID "1"
-* Enter record "1"
+* Add new record with ID "Test_1"
+* Enter record "Test_1"
 * Click "Registration"
 * Fill registration form
 * Click Next
